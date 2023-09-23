@@ -1,0 +1,18 @@
+
+.video{
+    width: 100%;
+    height: auto;
+    background-color: #000;
+}
+.one{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.one h1{
+    color: #fff;
+    padding-top: 15px;
+}
+video{
+    border:  2px solid #fff;
+    margin-bottom: 50px;
+}
